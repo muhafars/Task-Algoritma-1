@@ -8,7 +8,6 @@ int main()
     cout << "=         Muhammad Fajri Assidiq          =" << endl;
     cout << "=             221011402601                =" << endl;
     cout << "===========================================" << endl;
-    cout << endl;
 
     float c, f, r;
     cout << "Input Suhu Celsius: ";

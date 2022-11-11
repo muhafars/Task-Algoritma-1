@@ -9,7 +9,6 @@ int main()
     cout << "=         Muhammad Fajri Assidiq          =" << endl;
     cout << "=             221011402601                =" << endl;
     cout << "===========================================" << endl;
-    cout << endl;
 
     float m, b, n, um, ut;
     cout << "Masukkan Modal Tabungan= Rp.";
